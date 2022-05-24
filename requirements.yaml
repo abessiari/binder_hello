@@ -1,0 +1,3 @@
+ssh_keys:
+     public: /Users/SOME_USER/SSH/go-ssh.pub
+     private: /Users/SOME_USER/SSH/go-ssh
